@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client'
-import './index.css'
+import './app/global.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Layout from './app/layout';
 
